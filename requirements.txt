@@ -1,5 +1,6 @@
 pandas
-mathplotlib
+matplotlib
 seaborn
 scipy
 ipykernel
+numpy
